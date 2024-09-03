@@ -3,8 +3,8 @@
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Results](#results)
-3. [License](#license)
-4. [Warning](#warning)
+3. [Warning](#warning)
+4. [License](#license)
 
 ## Project Overview
 The Crime Category Prediction Challenge involves analyzing a dataset of crime incidents with the goal of predicting the type of crime based on various factors. This project leverages machine learning techniques to uncover patterns in the data and build predictive models that forecast the crime category for each incident. The project serves as a practice exercise to enhance skills in data analysis, feature engineering, and model building.
@@ -33,12 +33,8 @@ The final submission notebook, 22f1000801-notebook-t22024.ipynb, contains the fo
 ## Results
 I secured the highest 'S' grade and achieved 11th rank with an accuracy of 0.96140 on the effective leaderboard of the Kaggle competition for the term May 2024.
 - **Accuracy** = 0.96140
-  
-![Confusion Matrix](images/confusion_matrix.png)
 
-![Model Performance](images/model_performance.png)
-
-## ⚠️ Warning
+## Warning  ⚠️ 
 This code is provided for reference purposes only. Any direct copying or misuse will be considered a violation of academic integrity policies of `Indian Institute of Technology, Madras (IIT-M)`. Use this code responsibly and at your own risk.
 
 ## License
