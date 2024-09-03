@@ -14,17 +14,9 @@ The Crime Category Prediction Challenge involves analyzing a dataset of crime in
 ## Dataset
 The dataset used in this project contains information on crime incidents, including incident locations, victim demographics, and other relevant attributes. Each entry represents a unique crime event, and the objective is to predict the crime category based on the provided features.
 
-- **Source**: [Link to Dataset] (if applicable)
-- **Number of Records**: X (mention the total number of rows)
-- **Features**: List the key features (e.g., incident location, victim age, crime date)
-
-## Modeling Approach
-This section provides a brief overview of the modeling approach used in this project:
-
-- **Data Preprocessing**: Describe how you handled missing values, outliers, and feature engineering.
-- **Model Selection**: Discuss the machine learning algorithms you experimented with (e.g., Random Forest, XGBoost, LSTM) and the rationale behind your choices.
-- **Evaluation**: Explain the metrics used to evaluate the models (e.g., accuracy, F1 score, ROC-AUC) and any cross-validation techniques applied.
-
+- **Source**: [[Link to Dataset](https://www.kaggle.com/competitions/crime-cast-forecasting-crime-categories/data)] 
+- **Number of Records**: 20000 Records
+  
 ## Results
 Summarize the key findings from your analysis, including the performance of the best model. You can include:
 
