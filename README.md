@@ -4,7 +4,7 @@
 1. [Project Overview](#project-overview)
 2. [Results](#results)
 3. [License](#license)
-6. [Acknowledgements](#acknowledgements)
+4. [Warning](#warning)
 
 ## Project Overview
 The Crime Category Prediction Challenge involves analyzing a dataset of crime incidents with the goal of predicting the type of crime based on various factors. This project leverages machine learning techniques to uncover patterns in the data and build predictive models that forecast the crime category for each incident. The project serves as a practice exercise to enhance skills in data analysis, feature engineering, and model building.
@@ -37,6 +37,9 @@ I secured the highest 'S' grade and achieved 11th rank with an accuracy of 0.961
 ![Confusion Matrix](images/confusion_matrix.png)
 
 ![Model Performance](images/model_performance.png)
+
+## ⚠️ Warning
+This code is provided for reference purposes only. Any direct copying or misuse will be considered a violation of academic integrity policies of `Indian Institute of Technology, Madras (IIT-M)`. Use this code responsibly and at your own risk.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
